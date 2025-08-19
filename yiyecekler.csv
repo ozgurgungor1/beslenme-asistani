@@ -1,0 +1,668 @@
+isim,kalori,protein,karbonhidrat,yag
+Armut,57,0.4,15,0.2
+Ayva,57,0.4,15,0.1
+Ay çekirdeği,584,21,20,51
+Badem,579,21,22,50
+Bal,304,0.3,82,0
+Balık (hamsi),210,22,0,11
+Balık (somon),208,20,0,13
+Bulgur (pişmiş),83,3,19,0.2
+Ceviz,654,15,14,65
+Çikolata (sütlü),535,7.6,59,30
+Çilek,33,0.8,8,0.3
+Dondurma (vanilyalı),207,3.5,24,11
+Domates,18,0.9,4,0.2
+Ekmek (beyaz),265,9,49,3.2
+Ekmek (tam buğday),247,12,41,4
+Elma,52,0.3,14,0.2
+Fasulye (kuru pişmiş),127,8,23,0.5
+Fındık,628,15,17,61
+Fıstık,567,26,16,49
+Hamburger,295,17,30,12
+Havuç,41,0.9,10,0.2
+Kaşar peyniri,350,25,2,27
+Kayısı,48,1.4,11,0.4
+Karpuz,30,0.6,8,0.2
+Kavun,34,0.8,8,0.2
+Kırmızı et (yağsız),250,26,0,15
+Makarna (pişmiş),131,5,25,1.1
+Mercimek (pişmiş),116,9,20,0.4
+Muz,89,1.1,23,0.3
+Nohut (pişmiş),164,9,27,2.6
+Patates,77,2,17,0.1
+Peynir (beyaz),265,14,3,21
+Pide (kaşarlı),350,15,40,15
+Pizza (peynirli),266,11,33,10
+Pirinç (pişmiş),130,2.7,28,0.3
+Portakal,47,0.9,12,0.1
+Salatalık,16,0.6,4,0.1
+Süt (yağlı),61,3.2,5,3.3
+Süt (yağsız),42,4,5,0.2
+Şeftali,39,0.9,10,0.3
+Tavuk göğsü,165,31,0,3.6
+Tereyağı,717,0.9,0.1,81
+Üzüm,69,0.7,18,0.2
+Yoğurt (sade),59,3.5,4.7,3.3
+Yulaf ezmesi,389,17,66,7
+Yumurta,155,13,1.1,11
+Zeytinyağı,884,0,0,100
+Kuru incir,249,3.6,64,0.9
+Kuru kayısı,241,3.4,63,0.5
+Kuru üzüm,299,3.1,79,0.5
+Kestane,213,2.4,45,2.2
+Antep fıstığı,562,20,28,45
+Brokoli,34,2.8,7,0.4
+Ispanak,23,2.9,3.6,0.4
+Karnabahar,25,2,5,0.3
+Bezelye (pişmiş),81,5,14,0.4
+Mantar (beyaz),22,3.1,3.3,0.3
+Lahana (beyaz),25,1.3,6,0.1
+Biber (yeşil),20,1,4.6,0.2
+Soğan,40,1.1,9,0.1
+Sarımsak,149,6.4,33,0.5
+Zeytin (siyah),115,0.8,6,10.7
+Zeytin (yeşil),145,1,3.8,15.3
+Kefir,55,3.6,4,3
+Hindi göğsü,135,29,0,1
+Dana ciğeri,165,26,4,4
+Balık (levrek),124,20,0,4
+Balık (ton),132,28,0,1
+Cips (patates),536,7,52,34
+Kola,42,0,11,0
+Gazoz,39,0,10,0
+Ayran,31,1.9,2.3,1
+Tarhana çorbası,50,2,7,1
+Mercimek çorbası,75,5,12,1.5
+Yoğurtlu çorba,60,3,8,2
+Menemen,120,5,6,9
+Omlet,154,11,1.3,12
+Sucuk,455,23,2,40
+Pastırma,250,30,0,15
+Döner,215,15,5,14
+Lahmacun,250,12,24,12
+Simit,270,9,50,6
+Börek (peynirli),290,9,32,15
+Mantı (pişmiş),190,7,28,6
+Kısır,150,3,24,4
+Elma,52,0.3,14,0.2
+Armut,57,0.4,15,0.1
+Muz,89,1.1,23,0.3
+Çilek,33,0.8,8,0.3
+Portakal,47,0.9,12,0.1
+Karpuz,30,0.6,8,0.2
+Üzüm,69,0.7,18,0.2
+Domates,18,0.9,4,0.2
+Salatalık,16,0.6,4,0.1
+Havuç,41,0.9,10,0.2
+Patates,77,2,17,0.1
+Pirinç (pişmiş),130,2.7,28,0.3
+Makarna (pişmiş),131,5,25,1.1
+Bulgur (pişmiş),83,3,19,0.2
+Nohut (pişmiş),164,9,27,2.6
+Mercimek (pişmiş),116,9,20,0.4
+Fasulye (kuru pişmiş),127,8,23,0.5
+Tavuk göğsü,165,31,0,3.6
+Kırmızı et (yağsız),250,26,0,15
+Balık (somon),208,20,0,13
+Balık (hamsi),210,22,0,11
+Yumurta,155,13,1.1,11
+Süt (yağlı),61,3.2,5,3.3
+Yoğurt (sade),59,3.5,4.7,3.3
+Peynir (beyaz),265,14,3,21
+Kaşar peyniri,350,25,2,27
+Fındık,628,15,17,61
+Badem,579,21,22,50
+Ceviz,654,15,14,65
+Zeytinyağı,884,0,0,100
+Tereyağı,717,0.9,0.1,81
+Ekmek (beyaz),265,9,49,3.2
+Ekmek (tam buğday),247,12,41,4
+Simit,270,9,50,6
+Pizza (peynirli),266,11,33,10
+Hamburger,295,17,30,12
+Döner,215,15,5,14
+Lahmacun,250,12,24,12
+Börek (peynirli),290,9,32,15
+isim,kalori,protein,karbonhidrat,yag
+Şeftali,39,0.9,10,0.3
+Kayısı,48,1.4,11,0.4
+Kuru kayısı,241,3.4,63,0.5
+İncir (taze),74,0.8,19,0.3
+Kuru incir,249,3.6,64,0.9
+Kuru üzüm,299,3.1,79,0.5
+Kestane,213,2.4,45,2.2
+Antep fıstığı,562,20,28,45
+Ay çekirdeği,584,21,20,51
+Kabak çekirdeği,559,30,11,49
+Fıstık (yer fıstığı),567,26,16,49
+Kefir,55,3.6,4,3
+Ayran,31,1.9,2.3,1
+Tarhana çorbası,50,2,7,1
+Mercimek çorbası,75,5,12,1.5
+Yoğurtlu çorba,60,3,8,2
+Menemen,120,5,6,9
+Omlet,154,11,1.3,12
+Sucuk,455,23,2,40
+Pastırma,250,30,0,15
+Zeytin (siyah),115,0.8,6,10.7
+Zeytin (yeşil),145,1,3.8,15.3
+Balık (levrek),124,20,0,4
+Balık (ton),132,28,0,1
+Hindi göğsü,135,29,0,1
+Dana ciğeri,165,26,4,4
+Brokoli,34,2.8,7,0.4
+Ispanak,23,2.9,3.6,0.4
+Karnabahar,25,2,5,0.3
+Bezelye (pişmiş),81,5,14,0.4
+Mantar (beyaz),22,3.1,3.3,0.3
+Lahana (beyaz),25,1.3,6,0.1
+Biber (yeşil),20,1,4.6,0.2
+Soğan,40,1.1,9,0.1
+Sarımsak,149,6.4,33,0.5
+Marul,15,1.4,2.9,0.2
+Roka,25,2.6,3.7,0.7
+Maydanoz,36,3,6,0.8
+Dereotu,43,3.5,7,1.1
+isim,kalori,protein,karbonhidrat,yag
+Kivi,61,1.1,15,0.5
+Mango,60,0.8,15,0.4
+Ananas,50,0.5,13,0.1
+Nar,83,1.7,19,1.2
+Avokado,160,2,9,15
+Greyfurt,42,0.8,11,0.1
+Mandalina,53,0.8,13,0.3
+Vişne,50,1,12,0.3
+Kiraz,63,1.1,16,0.2
+Erik,46,0.7,11,0.3
+Kabak (yeşil),17,1.2,3.1,0.3
+Patlıcan,25,1,6,0.2
+Turp,16,0.7,3.4,0.1
+Şalgam,20,0.9,4.6,0.1
+Brüksel lahanası,43,3.4,9,0.3
+Kereviz,16,0.7,3,0.2
+Enginar,47,3.3,11,0.2
+Bamya,33,2,7,0.2
+Bakla,88,8,19,0.7
+Kuru bakla,341,26,58,1.5
+Kuru fasulye,333,23,61,0.8
+Barbunya,333,23,60,1
+Yeşil mercimek (kuru),352,25,60,1.1
+Kinoa,368,14,64,6
+Chia tohumu,486,17,42,31
+Keten tohumu,534,18,29,42
+Susam,573,18,23,50
+Hindistancevizi (taze),354,3.3,15,33
+Hindistancevizi (kurutulmuş),660,6.9,24,65
+Kuru hurma,282,2.5,75,0.4
+Şeker,387,0,100,0
+Bal kabağı,26,1,7,0.1
+Mısır (haşlanmış),96,3.4,21,1.5
+Mısır gevreği,357,7,84,3
+Patlamış mısır,387,13,78,4
+Lavaş,270,9,55,3
+Tortilla,218,5.7,45,2.8
+Kuru ekmek,374,11,74,1
+Simit (susamlı),310,9,56,7
+Poğaça (peynirli),320,8,34,16
+Kek (sade),370,6,54,15
+Kurabiye,450,5,70,20
+Baklava,480,6,60,25
+Kadayıf,350,5,65,12
+Lokum,320,0.5,80,0
+Helva (tahin),469,12,52,23
+isim,kalori,protein,karbonhidrat,yag
+Çay (şekersiz),1,0,0.3,0
+Kahve (filtre şekersiz),2,0.1,0,0
+Türk kahvesi (şekerli),46,0.6,6,2
+Nescafe (şekerli),70,0.6,12,2
+Kakao (sütlü),77,3.2,10,3.3
+Sahlep,120,3,20,3
+Meyve suyu (portakal),45,0.7,11,0.2
+Meyve suyu (elma),47,0.1,12,0.1
+Meyve suyu (vişne),50,0.4,12,0.1
+Enerji içeceği,45,0,11,0
+Milkshake (çilekli),210,5,35,6
+Smoothie (karışık meyve),120,2,27,1
+Şalgam suyu,12,0.3,3,0
+Boza,71,1,16,0.5
+Şerbet (gül),65,0.2,16,0
+Limonata,53,0.2,13,0.1
+---
+Zeytin (kahvaltılık),115,0.8,6,11
+Reçel (çilek),250,0.3,65,0.1
+Reçel (kayısı),240,0.4,62,0.1
+Pekmez,290,0.5,75,0.1
+Bal kaymak,340,2,50,15
+Sucuklu yumurta,310,18,1.5,26
+Menemen (peynirli),160,8,7,11
+Kahvaltı peyniri (tulum),380,20,2,30
+Zeytinyağlı peynir tabağı,400,22,2,35
+Sahanda yumurta,180,12,1,14
+Krep,220,6,28,9
+Pankek,230,6,30,9
+Waffle,330,7,42,15
+Sosisli yumurta,270,15,2,22
+Patates kızartması,312,3.4,41,15
+Patates tava,200,3,30,9
+Sosis (kızartılmış),300,12,2,25
+---
+Hamburger (cheeseburger),303,17,30,14
+Hamburger (double),520,28,42,28
+Pizza (karışık),285,13,34,12
+Pizza (sucuklu),290,14,32,13
+Pizza (sebzeli),260,11,33,9
+Lahmacun (acılı),280,13,26,14
+Döner dürüm (et),350,18,35,15
+Döner dürüm (tavuk),300,20,30,10
+İskender kebap,600,30,40,35
+Adana kebap,280,20,5,20
+Urfa kebap,270,21,5,18
+Kuzu şiş,250,22,0,17
+Köfte (ızgara),250,20,3,18
+Çiğ köfte (etsiz),150,6,28,3
+Tantuni (et),290,18,25,12
+Midye tava,270,15,20,15
+Midye dolma,160,6,22,6
+Balık ekmek,350,22,32,14
+Sandviç (ton balıklı),280,15,32,10
+Sandviç (tavuklu),250,18,28,8
+Hot dog,300,12,30,15
+Tost (kaşarlı),320,12,33,15
+Tost (sucuklu),340,14,32,18
+Tost (karışık),360,16,34,20
+Çiğ börek,310,9,28,18
+Gözleme (peynirli),280,9,34,12
+Gözleme (ıspanaklı),260,8,32,10
+Gözleme (patatesli),300,8,40,12
+Sigara böreği,270,8,30,14
+Çubuk kraker,400,10,75,8
+Pizza dilimi (orta boy),280,12,32,11
+Tavuk nugget,296,16,18,18
+Baklava (fıstıklı),430,6,60,18
+Baklava (cevizli),420,7,58,17
+Şöbiyet,450,8,55,20
+Kadayıf (tel),350,6,50,14
+Künefe,420,9,48,22
+Revani,330,6,45,14
+Şekerpare,340,5,48,13
+Tulumba tatlısı,350,4,52,15
+Lokma,310,4,40,14
+Helva (irmik),320,5,50,12
+Helva (tahin),469,12,52,26
+Kazandibi,230,6,38,6
+Tavuk göğsü tatlısı,230,7,35,5
+Sütlaç,150,4,25,3
+Muhallebi,130,4,20,3
+Puding (çikolatalı),140,3,24,3
+Profiterol,370,6,38,22
+Ekler,360,6,42,20
+Pasta (çikolatalı),380,5,45,18
+Pasta (meyveli),340,4,50,12
+Cheesecake (limonlu),320,6,35,15
+Cheesecake (frambuazlı),330,7,36,16
+Cheesecake (çikolatalı),360,7,34,20
+Brownie,405,6,48,22
+Kurabiye (çikolatalı),480,5,64,22
+Kurabiye (elmalı),460,5,62,20
+Kurabiye (tuzlu),450,6,58,21
+Dondurma (çikolatalı),210,4,24,11
+Dondurma (çilekli),190,3,23,9
+Dondurma (karışık),220,4,26,12
+Trileçe,290,6,38,10
+Magnolia (muzlu),280,6,36,11
+Magnolia (çilekli),270,5,35,10
+Magnolia (fındıklı),300,6,34,13
+Cupcake,340,5,42,15
+Waffle (çikolatalı),420,7,55,18
+Waffle (meyveli),380,6,50,14
+Kek (sade),320,5,48,12
+Kek (kakaolu),340,6,45,14
+Donut (çikolatalı),420,5,52,20
+Donut (şekerli),400,5,50,18
+Pişmaniye,380,4,85,3
+Şam tatlısı,360,6,52,14
+Ayva tatlısı,210,2,45,1
+İncir tatlısı,250,3,50,2
+Kabak tatlısı,180,2,40,0.5
+Kaju,553,18,30,44
+Brezilya cevizi,659,14,12,66
+Macadamia,718,8,14,76
+Çam fıstığı,673,14,13,68
+Kabak çekirdeği,559,30,11,49
+Susam,573,18,23,50
+Ayçiçek yağı,884,0,0,100
+Mısır gevreği,357,8,84,2
+Granola,471,10,64,20
+Protein bar,350,20,45,10
+Cips (mısır),489,6,64,24
+Patlamış mısır,387,13,78,4
+Kraker,502,9,64,25
+Tuzlu çubuk,410,11,72,9
+Enerji içeceği,45,0,11,0
+Meyve suyu (portakal),45,0.7,10,0.2
+Meyve suyu (elma),46,0,11,0
+Meyve suyu (üzüm),60,0.3,15,0.2
+Meyve suyu (vişne),48,0.4,12,0.1
+Soğuk çay,30,0,8,0
+Kahve (sade),2,0.3,0,0
+Kahve (latte),120,6,12,4
+Kahve (cappuccino),90,5,10,3
+Kahve (americano),5,0.5,0,0
+Kahve (mocha),250,6,30,10
+Sıcak çikolata,190,5,30,7
+Milkshake (çilekli),220,6,40,5
+Milkshake (çikolatalı),250,7,42,7
+Smoothie (muzlu),180,4,35,2
+Smoothie (çilekli),150,3,30,1
+Smoothie (yeşil),120,3,22,1
+Hamburger (cheeseburger),310,16,32,14
+Hamburger (double),420,25,35,20
+Hot dog,290,11,30,15
+Taco,226,12,24,11
+Burrito,290,14,40,10
+Quesadilla,330,12,35,15
+Nachos,346,9,42,18
+Pizza (karışık),285,12,34,12
+Pizza (sucuklu),300,14,36,13
+Pizza (sebzeli),250,10,30,9
+Pizza (tavuklu),270,13,32,11
+Sandviç (ton balıklı),270,18,28,9
+Sandviç (tavuklu),260,20,30,7
+Sandviç (yumurtalı),240,15,26,8
+Sosisli,280,12,29,13
+Döner (tavuk),180,14,8,10
+Döner (et),215,15,5,14
+İskender,310,20,25,15
+Çiğ köfte,270,9,45,8
+Lavaş,300,8,60,4
+Ramen,430,10,70,14
+Sushi (somonlu),200,13,28,5
+Sushi (avokadolu),180,6,32,4
+Sushi (ton balıklı),210,14,26,6
+Pad Thai,350,12,60,10
+Udon,280,9,55,3
+Pho,240,12,35,6
+Curry (tavuklu),320,20,25,14
+Curry (vejetaryen),290,9,35,12
+Falafel,333,13,31,17
+Humus,166,8,14,9
+Pita ekmeği,275,9,55,1
+Bagel,250,9,48,1
+Croissant,406,8,45,21
+Donut (dolgulu),450,6,52,22
+Muffin (yaban mersinli),385,6,55,15
+Muffin (çikolatalı),400,6,58,16
+Pankek (sade),227,6,28,9
+Pankek (çikolatalı),290,7,40,12
+Gözleme (peynirli),310,12,36,14
+Gözleme (patatesli),290,10,38,11
+Menemen (peynirli),150,7,6,11
+Sucuklu yumurta,280,15,2,22
+Pastırmalı yumurta,250,18,1,18
+Omlet (peynirli),230,14,1,18
+Omlet (sebzeli),200,12,3,14
+French toast,250,10,30,11
+Waffle (muzlu),390,7,55,15
+Waffle (nutellalı),450,8,58,20
+Krep (sade),220,6,28,9
+Krep (çikolatalı),280,7,35,12
+Krep (muzlu),260,7,32,10
+Çorba (domates),90,3,15,2
+Çorba (sebze),70,2,12,1
+Çorba (tavuklu şehriye),110,5,16,3
+Çorba (mantar),100,4,14,3
+Çorba (balık),120,7,10,4
+Soda,0,0,0,0
+Maden suyu (limonlu),5,0,1,0
+Türk kahvesi (şekersiz),2,0.1,0,0
+Nescafe (sütlü),70,2,12,1
+Çay (şekersiz),1,0,0,0
+Çay (şekerli 1 küp),20,0,5,0
+Yeşil çay,2,0,0,0
+Bitki çayı (papatya),2,0,0,0
+Ayran (tuzlu),35,2,3,1
+Kefir (yağsız),45,3.5,4,0.2
+Şalgam suyu,12,0.2,3,0
+Meyve suyu (portakal),45,0.6,10,0
+Meyve suyu (elma),46,0.2,12,0
+Meyve suyu (vişne),54,0.3,13,0
+Enerji içeceği,110,1,27,0
+Limonata,53,0.2,13,0
+Sahlep,77,3,12,2
+Boza,110,1,25,0.5
+Sütlaç,150,4,28,3
+Kazandibi,200,5,34,5
+Profiterol,340,6,38,18
+Baklava,430,6,54,22
+Künefe,480,10,52,25
+Şekerpare,330,4,48,12
+Tulumba tatlısı,350,3,55,15
+Lokma tatlısı,400,6,60,18
+Güllaç,200,5,32,6
+Revani,320,6,45,14
+Puding (çikolatalı),150,3,24,4
+Pasta (çilekli),310,5,45,12
+Donut,450,6,52,25
+Kek (kakaolu),380,7,49,18
+Kurabiye (un),490,6,68,22
+Kurabiye (çikolatalı),520,7,64,25
+Bisküvi (sade),430,7,72,12
+Bisküvi (kakaolu),450,6,70,15
+Kraker,430,9,67,14
+Gofret (çikolatalı),520,7,61,27
+Dondurma (çikolatalı),210,4,23,11
+Dondurma (çilekli),195,3.5,25,9
+Milkshake (çilek),220,5,36,6
+Milkshake (muz),240,6,38,7
+Smoothie (yeşil),150,3,28,2
+Smoothie (kırmızı meyve),160,2,35,1
+Cappuccino,80,4,12,2
+Latte,120,6,12,4
+Mocha,150,6,20,6
+Espresso,3,0.1,0,0
+Americano,5,0.2,0,0
+Sucuklu yumurta,280,14,2,24
+Menemen,180,6,7,13
+Omlet (peynirli),250,12,2,20
+Kahvaltı simidi,310,9,62,4
+Poğaça (peynirli),340,8,38,17
+Açma,350,8,45,16
+Boyoz,320,7,42,14
+Kruvasan,406,8,45,21
+Gözleme (peynirli),310,11,39,14
+Gözleme (patatesli),330,9,44,15
+Gözleme (ıspanaklı),300,10,38,12
+Börek (kıymalı),430,14,40,24
+Börek (peynirli),410,12,38,22
+Su böreği,450,14,42,25
+Lahmacun,210,10,25,8
+Pide (kıymalı),430,18,46,18
+Pide (kaşarlı),460,20,44,20
+Pide (karışık),480,22,45,22
+Pizza (margarita),270,11,33,10
+Pizza (peperoni),310,13,34,14
+Pizza (karışık),340,15,35,16
+Hamburger,295,14,30,12
+Cheeseburger,340,16,32,15
+Tavuk burger,310,18,34,11
+Balık burger,290,14,33,10
+Vegan burger,250,12,29,8
+Döner (tavuk),320,22,26,15
+Döner (et),360,25,24,18
+İskender,540,30,45,28
+Kebap (Adana),380,22,18,26
+Kebap (Urfa),370,21,17,25
+Çöp şiş,290,26,3,18
+Tavuk şiş,240,28,2,12
+Balık ızgara (somon),280,25,0,18
+Balık ızgara (çipura),240,26,0,14
+Balık tava (hamsi),290,23,4,17
+Midye dolma (1 adet),40,2,4,2
+Kokoreç (ekmek arası),420,24,32,22
+Kumpir (klasik),560,15,72,24
+Kumpir (karışık),620,18,75,28
+Mantı,310,12,45,9
+İçli köfte (1 adet),170,7,16,9
+Çiğ köfte (1 porsiyon),280,9,40,10
+Patates kızartması (100 g),310,3,41,15
+Soğan halkası (100 g),280,4,34,13
+Cips (100 g),540,6,54,34
+Nachos (peynirli),350,8,42,17
+Hotdog,330,12,31,18
+Tost (kaşarlı),310,14,32,13
+Tost (karışık),350,18,34,16
+Baklava (2 dilim),340,6,45,16
+Şekerpare (2 adet),280,4,40,12
+Kadayıf (fıstıklı),360,6,50,14
+Künefe,420,10,52,18
+Revani,290,5,40,11
+Sütlaç,210,6,34,5
+Kazandibi,230,6,36,6
+Muhallebi,180,5,30,4
+Tavuk göğsü tatlısı,190,6,28,4
+Puding (çikolatalı),160,3,28,4
+Dondurma (1 top),70,2,10,3
+Dondurma (3 top),210,6,30,9
+Cheesecake,410,7,45,21
+Tiramisu,360,7,44,16
+Profiterol,320,6,38,15
+Eclair,290,5,35,12
+Pasta (çikolatalı),370,6,42,18
+Pasta (meyveli),330,5,40,14
+Kurabiye (1 adet),110,2,14,5
+Brownie,360,6,45,16
+Donut,290,5,34,14
+Waffle,380,7,48,17
+Krep (tatlı),190,5,25,7
+Pancake (3 adet),210,6,28,8
+Bal,304,1,82,0
+Reçel (1 yemek kaşığı),55,0,14,0
+Nutella (1 yemek kaşığı),80,1,9,4
+Tahini pekmez,280,6,32,14
+Helva (irmik),320,5,50,12
+Helva (tahin),340,8,40,16
+Çikolata (sütlü 100 g),535,7,59,30
+Çikolata (bitter 100 g),500,6,52,32
+Göbekli lokum (100 g),320,3,75,0
+Meyve suyu (portakal 200 ml),90,2,22,0
+Meyve suyu (elma 200 ml),95,0,24,0
+Gazoz (330 ml),140,0,35,0
+Kola (330 ml),138,0,35,0
+Kola light (330 ml),1,0,0,0
+Soğuk çay (330 ml),130,0,32,0
+Enerji içeceği (250 ml),110,0,27,0
+Kahve (sade),2,0,0,0
+Kahve (sütlü),60,3,7,2
+Cappuccino,120,5,12,5
+Latte,150,6,14,6
+Mocha,220,6,28,9
+Çay (şekersiz),2,0,0,0
+Çay (2 şekerli),45,0,12,0
+Ayran (200 ml),70,3,5,4
+Soda,0,0,0,0
+Milkshake (çikolatalı),320,8,50,10
+Smoothie (meyveli),180,4,35,2
+Hamburger,295,17,30,12
+Cheeseburger,340,19,32,15
+Double Burger,480,28,40,24
+Big Mac,540,25,45,28
+Tavuk Burger,360,22,35,14
+Balık Burger,380,20,36,18
+Vegan Burger,310,15,40,10
+Hot Dog,310,11,29,18
+Pizza (peynirli dilim),285,12,33,10
+Pizza (sucuklu dilim),320,14,35,14
+Pizza (sebzeli dilim),260,11,32,8
+Pizza (karışık dilim),350,15,36,16
+Lahmacun,280,14,34,11
+Pide (kıymalı),410,18,50,15
+Pide (peynirli),380,15,48,14
+Döner (ekmek arası),420,25,45,16
+Döner (porsiyon),550,32,40,28
+İskender,780,38,55,40
+Kokoreç (yarım ekmek),600,26,35,40
+Çiğköfte (10 adet),220,8,32,8
+Tost (kaşarlı),310,15,30,14
+Tost (karışık),390,18,35,20
+Menemen,280,12,18,20
+Sucuklu yumurta,310,15,2,25
+Omlet (2 yumurtalı),210,14,1,16
+French fries (orta boy),365,5,63,17
+Patates kızartması (büyük),510,7,85,24
+Patso (ekmek arası patates),520,11,70,20
+Çiğ börek (1 adet),230,6,24,12
+Simit,250,8,48,5
+Poğaça (peynirli),320,9,35,15
+Poğaça (patatesli),330,8,38,16
+Açma,300,8,34,14
+Boyoz,280,6,36,12
+Kruvasan,310,6,34,16
+Sandviç (ton balıklı),360,22,35,14
+Sandviç (tavuklu),340,24,32,12
+Sandviç (peynirli),310,16,36,10
+Baget ekmek (100 g),270,9,52,2
+Çavdar ekmeği (100 g),250,9,48,2
+Tam buğday ekmeği (100 g),247,10,45,3
+Kepek ekmeği (100 g),240,9,44,3
+Kraker (100 g),430,9,72,11
+Cips (patates 100 g),540,7,52,35
+Cips (mısır 100 g),510,6,60,28
+Popcorn (tuzlu 100 g),380,11,74,5
+Popcorn (karamel 100 g),420,8,80,8
+Çekirdek (100 g),580,19,18,48
+Fıstık (100 g),620,26,20,50
+Badem (100 g),610,21,20,52
+Ceviz (100 g),654,15,14,65
+Kaju (100 g),553,18,30,44
+Baklava (1 dilim),290,4,38,14
+Şöbiyet (1 dilim),310,5,36,16
+Kadayıf (1 porsiyon),360,6,45,18
+Revani (1 dilim),250,4,32,10
+Sütlaç (1 kase),220,6,36,5
+Kazandibi (1 porsiyon),240,5,34,7
+Tavuk göğsü tatlısı,210,7,32,4
+Profiterol (3 adet),320,6,28,18
+Ekler (1 adet),280,5,26,16
+Cheesecake (1 dilim),410,7,34,28
+Tiramisu (1 porsiyon),320,6,36,14
+Künefe (1 porsiyon),420,9,45,20
+Dondurma (2 top),180,4,28,6
+Maraş dondurması (2 top),210,5,26,8
+Çikolata (sütlü 100 g),535,7,59,30
+Çikolata (bitter 100 g),500,6,46,32
+Çikolatalı gofret (1 paket),220,3,28,12
+Çikolatalı kek (1 dilim),350,6,40,18
+Meyveli kek (1 dilim),280,5,36,12
+Islak kek (1 dilim),320,6,38,14
+Kurabiye (1 adet),150,2,20,6
+Un kurabiyesi (1 adet),170,2,18,8
+Bisküvi (100 g),450,8,70,14
+Pasta (çikolatalı dilim),420,6,50,20
+Pasta (meyveli dilim),370,5,48,16
+Bal (1 yemek kaşığı),64,0.1,17,0
+Reçel (1 yemek kaşığı),55,0.1,14,0
+Helva (100 g),540,12,50,32
+Lokum (100 g),320,2,80,0
+Şeker (100 g),400,0,100,0
+Gazoz (1 bardak),85,0,22,0
+Kola (1 bardak),90,0,24,0
+Kola light (1 bardak),1,0,0,0
+Meyve suyu (portakal 1 bardak),110,2,26,0
+Meyve suyu (elma 1 bardak),115,0,28,0
+Meyve suyu (üzüm 1 bardak),120,0,29,0
+Ayran (1 bardak),65,3,5,3
+Soda (1 şişe),0,0,0,0
+Enerji içeceği (1 kutu),110,1,28,0
+Çay şekersiz (1 bardak),2,0,0,0
+Çay şekerli (1 bardak),32,0,8,0
+Kahve sade (1 fincan),5,0.3,0,0
+Kahve sütlü (1 fincan),45,2,6,1
+Cappuccino (1 fincan),80,3,10,3
+Latte (1 fincan),120,6,12,4
+Mocha (1 fincan),160,6,22,6
+Espresso (1 shot),3,0.2,0,0
+Türk kahvesi sade (1 fincan),15,0.3,1,0
+Türk kahvesi şekerli (1 fincan),45,0.3,10,0
+Salep (1 bardak),180,4,32,4
+Boza (1 bardak),250,6,50,2
+Şalgam suyu (1 bardak),20,0.5,5,0
