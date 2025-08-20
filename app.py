@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from openai import OpenAI
 
-# OpenAI client (API anahtarını secrets'ten alıyoruz)
+# OpenAI client (API anahtarını secrets'ten al)
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # Sayfa ayarları
@@ -27,7 +27,7 @@ food = st.selectbox("🥑 Yiyecek Seç", foods["isim"].tolist())
 # Gram gir
 amount = st.number_input("⚖️ Miktar (gram)", min_value=1, value=100)
 
-# Seçilen yiyeceğin değerlerini hesapla
+# Seçilen yiyeceğin değerlerini getir
 food_row = foods[foods["isim"] == food].iloc[0]
 cal = food_row["kalori"] * amount / 100
 prot = food_row["protein"] * amount / 100
@@ -60,7 +60,7 @@ if st.session_state["meals"]:
     totals = df[["Kalori", "Protein", "Karbonhidrat", "Yağ"]].sum()
     st.write(totals)
 
-    # Yapay zeka önerisi
+    # OpenAI'den öneri al
     if st.button("🤖 Yapay Zeka Önerisi Al"):
         with st.spinner("Öneriler hazırlanıyor..."):
             messages = [
