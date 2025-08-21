@@ -1,29 +1,12 @@
 <h1 align="center">🥗 Diyet Asistanı</h1>
 
-<p align="center">
-  <img src="logo.png" alt="Diyet Asistanı Logo" width="120" />
-</p>
 
 <p align="center">
   <strong>Beslenme takibi hiç bu kadar kolay olmamıştı.</strong><br>
   Günlük öğünlerini, makro değerlerini takip et ve <u>yapay zekâ</u> ile değerlendir!
 </p>
 
----
 
-## 📂 Proje Yapısı
-
-DiyetAsistanı/
-├── beslenme.py # Streamlit ile çalışan ana uygulama
-├── yiyecekler.csv # Besin bilgileri (isim, kalori, protein, karbonhidrat, yağ)
-├── gunluk_kayit.csv # Günlük eklenen içeriklerin kaydedildiği dosya
-├── requirements.txt # Gerekli Python kütüphaneleri
-├── logo.png # Uygulama için logo
-└── .streamlit/
-└── secrets.toml # OpenAI API anahtarı (GitHub’a yükleme!)
-
-
----
 
 ## 💻 Kurulum & Çalıştırma
 
