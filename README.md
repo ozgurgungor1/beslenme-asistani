@@ -60,5 +60,5 @@ Mobilde Masaüstüne Ekle seçeneği ile uygulama kendi başlığı ve logonla a
 
 👨‍💻 Geliştirici
 
-Bu proje ozgur90gungor-lang tarafından geliştirilmiştir.
+Bu proje ozgur90gungor tarafından geliştirilmiştir.
 Fikirlerin veya katkıların varsa pull request gönderebilirsin. 💡
