@@ -1,80 +1,81 @@
-<h1 align="center"> 🥗 Diyet Asistanı </h1>
+<h1 align="center">🥗 Diyet Asistanı</h1>
 
 <p align="center">
-  <img src="logo.png" alt="Logo" width="120" />
+  <img src="logo.png" alt="Diyet Asistanı Logo" width="120" />
 </p>
 
 <p align="center">
-  📊 Kendi beslenme kayıtlarını tut, günlük toplam değerlerini gör ve <b>yapay zekâ</b> desteğiyle beslenmeni değerlendir!
+  <strong>Beslenme takibi hiç bu kadar kolay olmamıştı.</strong><br>
+  Günlük öğünlerini, makro değerlerini takip et ve <u>yapay zekâ</u> ile değerlendir!
 </p>
 
 ---
 
 ## 📂 Proje Yapısı
-DiyetAsistanı/
-│── beslenme.py # Ana uygulama dosyası
-│── yiyecekler.csv # Yiyecekler listesi
-│── gunluk_kayit.csv # Günlük kayıtlar
-│── requirements.txt # Gerekli kütüphaneler
-│── README.md # Proje açıklaması
-│── logo.png # Uygulama logosu
-└── .streamlit/
-└── secrets.toml # OpenAI API anahtarı
 
+DiyetAsistanı/
+├── beslenme.py # Streamlit ile çalışan ana uygulama
+├── yiyecekler.csv # Besin bilgileri (isim, kalori, protein, karbonhidrat, yağ)
+├── gunluk_kayit.csv # Günlük eklenen içeriklerin kaydedildiği dosya
+├── requirements.txt # Gerekli Python kütüphaneleri
+├── logo.png # Uygulama için logo
+└── .streamlit/
+└── secrets.toml # OpenAI API anahtarı (GitHub’a yükleme!)
 
 
 ---
 
-## ⚙️ Kurulum
+## 💻 Kurulum & Çalıştırma
+
+1. **Projeyi klonla:**
 
 ```bash
-# 1. Projeyi indir
-git clone https://github.com/kullanici/DiyetAsistani.git
-cd DiyetAsistani
+git clone https://github.com/ozgur90gungor-lang/beslenme-asistani.git
+cd beslenme-asistani
 
-# 2. Gerekli paketleri yükle
+
+Gerekli paketleri yükle:
+
 pip install -r requirements.txt
 
-# 3. API anahtarını ekle
-# .streamlit/secrets.toml
-OPENAI_API_KEY = "BURAYA_API_KEYİNİ_YAZ"
 
-# 4. Uygulamayı çalıştır
+API anahtarını ayarla:
+
+.streamlit/secrets.toml dosyası oluştur ve içine şunu yaz:
+
+OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxx"
+
+
+Uygulamayı başlat:
+
 streamlit run beslenme.py
 
 
+Uygulama genellikle 👉 http://localhost:8501 adresinde açılır.
 
+✨ Özellikler
 
-🚀 Özellikler
+Öğün seç, yiyecek seç, gram belirle, istediğin kadar öğün ekle.
 
-✅ Yiyecek ekle & gramaj gir
+Günlük kalori, protein, karbonhidrat ve yağ değerlerini takip et.
 
-✅ Günlük kalori, protein, karbonhidrat ve yağ takibi
+Veriler gunluk_kayit.csv dosyasında kaydedilir.
 
-✅ Modern tablo görünümü (AgGrid desteği)
+AgGrid tablosu sayesinde modern, filtrelenebilir ve mobil uyumlu tablolar.
 
-✅ Verilerin gunluk_kayit.csv dosyasında saklanır
+“Beslenmeni Değerlendir” butonuyla OpenAI yapay zekâ yorumunu al.
 
-✅ 🤖 Yapay zekâ ile “Beslenmeni Değerlendir”
+logo.png sayesinde mobilde “Masaüstüne Ekle” yapıldığında özel ikon görünür.
 
-✅ Telefon & bilgisayar uyumlu
+ℹ️ Notlar
 
-✅ Kendi isim ve logonla masaüstüne eklenebilir
+yiyecekler.csv dosyasına istediğin yemekleri ekleyebilirsin.
 
+gunluk_kayit.csv otomatik olarak günlük kayıtları günceller.
 
-📌 Notlar
+Mobilde Masaüstüne Ekle seçeneği ile uygulama kendi başlığı ve logonla açılır.
 
-yiyecekler.csv içine yeni yiyecekler ekleyebilirsin.
+👨‍💻 Geliştirici
 
-gunluk_kayit.csv her çalıştırmada güncellenir, verilerin silinmez.
-
-Telefonla kullanırken "Masaüstüne ekle" dediğinde kendi logon görünür.
-
-
-
-<h3 align="center"> 🧑‍💻 Katkı Sağla </h3> <p align="center">Projeyi geliştirmek için pull request açabilir veya kendi ihtiyacına göre düzenleyebilirsin.</p> ```
-
-
-
-
-
+Bu proje ozgur90gungor-lang tarafından geliştirilmiştir.
+Fikirlerin veya katkıların varsa pull request gönderebilirsin. 💡
